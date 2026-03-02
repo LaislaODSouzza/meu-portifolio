@@ -15,5 +15,6 @@ Este projeto foi desenvolvido para centralizar minha trajetória acadêmica, pro
 ## Como visualizar o projeto
 1. Clone este repositório:
    ```bash
+   https://laislaodsouzza.github.io/meu-portifolio/
 
 *Desenvolvido por Laísla Oliveira.*   
